@@ -1,4 +1,4 @@
-# Project Title
+# Flickr Search App
 
 This is a simple Flickr image searching application that allows you to query the below URL for images based on tags and providing some additional information on each image when clicked.
 
